@@ -1,15 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <directory>
-  <contact>
-    <name>John Doe</name>
-    <extension>1001</extension>
-    <display-name>John Doe</display-name>
-    <email>john.doe@example.com</email>
-  </contact>
-  <contact>
-    <name>Jane Smith</name>
-    <extension>1002</extension>
-    <display-name>Jane Smith</display-name>
-    <email>jane.smith@example.com</email>
-  </contact>
+  <item_list>
+
+    <item>
+      <fn>Help</fn>
+      <ln>Desk</ln>
+      <ct>1000</ct>
+      <sd>1</sd>
+    </item>
+
+    <item>
+      <fn>Security</fn>
+      <ln>Desk</ln>
+      <ct>1001</ct>
+      <sd>2</sd>
+    </item>
+
+    <item>
+      <fn>Facilities</fn>
+      <ln>Support</ln>
+      <ct>1002</ct>
+      <sd>3</sd>
+    </item>
+
+  </item_list>
 </directory>
