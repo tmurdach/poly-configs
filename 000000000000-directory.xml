@@ -1,15 +1,15 @@
-<?xml version="1.0" standalone="yes"?>
-<PolycomDirectory>
-    <item>
-        <fn>John Doe</fn>
-        <ln>Support</ln>
-        <ct>5550199</ct>
-        <sd>1</sd>
-    </item>
-    <item>
-        <fn>Main Office</fn>
-        <ln>Reception</ln>
-        <ct>5550100</ct>
-        <sd>2</sd>
-    </item>
-</PolycomDirectory>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<directory>
+  <contact>
+    <name>John Doe</name>
+    <extension>1001</extension>
+    <display-name>John Doe</display-name>
+    <email>john.doe@example.com</email>
+  </contact>
+  <contact>
+    <name>Jane Smith</name>
+    <extension>1002</extension>
+    <display-name>Jane Smith</display-name>
+    <email>jane.smith@example.com</email>
+  </contact>
+</directory>
