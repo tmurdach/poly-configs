@@ -1,27 +1,641 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <directory>
   <item_list>
 
-    <item>
-      <fn>Patient Access Hotline</fn>
-      <ln></ln>
-      <ct>8773655566</ct>
-      <sd>1</sd>
-    </item>
+```
+<item>
+  <fn>Patient Access Hotline</fn>
+  <ln></ln>
+  <ct>8773655566</ct>
+  <sd>1</sd>
+</item>
 
-    <item>
-      <fn>Billing</fn>
-      <ln></ln>
-      <ct>8664550324</ct>
-      <sd>2</sd>
-    </item>
+<item>
+  <fn>Billing</fn>
+  <ln></ln>
+  <ct>8664550324</ct>
+  <sd>2</sd>
+</item>
 
-    <item>
-      <fn>Hemophilia</fn>
-      <ln></ln>
-      <ct>8338624559</ct>
-      <sd>3</sd>
-    </item>
+<item>
+  <fn>Hemophilia</fn>
+  <ln></ln>
+  <ct>8338624559</ct>
+  <sd>3</sd>
+</item>
 
-  </item_list>
-</directory>
+<item>
+  <fn>IC Alpharetta Appointment</fn>
+  <ln></ln>
+  <ct>+19901726211</ct>
+</item>
+
+<item>
+  <fn>IC Alpharetta Nurse</fn>
+  <ln></ln>
+  <ct>+19901726212</ct>
+</item>
+
+<item>
+  <fn>IC Arlington Appointment</fn>
+  <ln></ln>
+  <ct>+19901726571</ct>
+</item>
+
+<item>
+  <fn>IC Arlington Nurse</fn>
+  <ln></ln>
+  <ct>+19901726572</ct>
+</item>
+
+<item>
+  <fn>IC Atlanta Appointment</fn>
+  <ln></ln>
+  <ct>+19901726231</ct>
+</item>
+
+<item>
+  <fn>IC Atlanta Nurse</fn>
+  <ln></ln>
+  <ct>+19901726232</ct>
+</item>
+
+<item>
+  <fn>IC Austin Appointment</fn>
+  <ln></ln>
+  <ct>+19901726551</ct>
+</item>
+
+<item>
+  <fn>IC Austin Nurse</fn>
+  <ln></ln>
+  <ct>+19901726552</ct>
+</item>
+
+<item>
+  <fn>IC Bee Cave Appointment</fn>
+  <ln></ln>
+  <ct>+19901726591</ct>
+</item>
+
+<item>
+  <fn>IC Bee Cave Nurse</fn>
+  <ln></ln>
+  <ct>+19901726592</ct>
+</item>
+
+<item>
+  <fn>IC Birmingham Appointment</fn>
+  <ln></ln>
+  <ct>+19901726011</ct>
+</item>
+
+<item>
+  <fn>IC Birmingham Nurse</fn>
+  <ln></ln>
+  <ct>+19901726012</ct>
+</item>
+
+<item>
+  <fn>IC Cape Coral Appointment</fn>
+  <ln></ln>
+  <ct>+19901726111</ct>
+</item>
+
+<item>
+  <fn>IC Cape Coral Nurse</fn>
+  <ln></ln>
+  <ct>+19901726112</ct>
+</item>
+
+<item>
+  <fn>IC Clear Lake Appointment</fn>
+  <ln></ln>
+  <ct>+19901726611</ct>
+</item>
+
+<item>
+  <fn>IC Clear Lake Nurse</fn>
+  <ln></ln>
+  <ct>+19901726612</ct>
+</item>
+
+<item>
+  <fn>IC Clearwater Appointment</fn>
+  <ln></ln>
+  <ct>+19901726131</ct>
+</item>
+
+<item>
+  <fn>IC Clearwater Nurse</fn>
+  <ln></ln>
+  <ct>+19901726132</ct>
+</item>
+
+<item>
+  <fn>IC Coppell Appointment</fn>
+  <ln></ln>
+  <ct>+19901726631</ct>
+</item>
+
+<item>
+  <fn>IC Coppell Nurse</fn>
+  <ln></ln>
+  <ct>+19901726632</ct>
+</item>
+
+<item>
+  <fn>IC Crestwood Appointment</fn>
+  <ln></ln>
+  <ct>+19901726331</ct>
+</item>
+
+<item>
+  <fn>IC Crestwood Nurse</fn>
+  <ln></ln>
+  <ct>+19901726332</ct>
+</item>
+
+<item>
+  <fn>IC Creve Coeur Appointment</fn>
+  <ln></ln>
+  <ct>+19901726351</ct>
+</item>
+
+<item>
+  <fn>IC Creve Coeur Nurse</fn>
+  <ln></ln>
+  <ct>+19901726352</ct>
+</item>
+
+<item>
+  <fn>IC Dallas Appointment</fn>
+  <ln></ln>
+  <ct>+19901726651</ct>
+</item>
+
+<item>
+  <fn>IC Dallas Nurse</fn>
+  <ln></ln>
+  <ct>+19901726652</ct>
+</item>
+
+<item>
+  <fn>IC Decatur Appointment</fn>
+  <ln></ln>
+  <ct>+19901726251</ct>
+</item>
+
+<item>
+  <fn>IC Decatur Nurse</fn>
+  <ln></ln>
+  <ct>+19901726252</ct>
+</item>
+
+<item>
+  <fn>IC Denver-Montview Appointment</fn>
+  <ln></ln>
+  <ct>+19901726071</ct>
+</item>
+
+<item>
+  <fn>IC Denver-Montview Nurse</fn>
+  <ln></ln>
+  <ct>+19901726072</ct>
+</item>
+
+<item>
+  <fn>IC El Paso East Appointment</fn>
+  <ln></ln>
+  <ct>+19901726671</ct>
+</item>
+
+<item>
+  <fn>IC El Paso East Nurse</fn>
+  <ln></ln>
+  <ct>+19901726672</ct>
+</item>
+
+<item>
+  <fn>IC El Paso West Appointment</fn>
+  <ln></ln>
+  <ct>+19901726691</ct>
+</item>
+
+<item>
+  <fn>IC El Paso West Nurse</fn>
+  <ln></ln>
+  <ct>+19901726692</ct>
+</item>
+
+<item>
+  <fn>IC Fort Myers Appointment</fn>
+  <ln></ln>
+  <ct>+19901726151</ct>
+</item>
+
+<item>
+  <fn>IC Fort Myers Nurse</fn>
+  <ln></ln>
+  <ct>+19901726152</ct>
+</item>
+
+<item>
+  <fn>IC Fort Worth Appointment</fn>
+  <ln></ln>
+  <ct>+19901726711</ct>
+</item>
+
+<item>
+  <fn>IC Fort Worth Nurse</fn>
+  <ln></ln>
+  <ct>+19901726712</ct>
+</item>
+
+<item>
+  <fn>IC Greenwood Village Appointment</fn>
+  <ln></ln>
+  <ct>+19901726091</ct>
+</item>
+
+<item>
+  <fn>IC Greenwood Village Nurse</fn>
+  <ln></ln>
+  <ct>+19901726092</ct>
+</item>
+
+<item>
+  <fn>IC Hendersonville Appointment</fn>
+  <ln></ln>
+  <ct>+19901726451</ct>
+</item>
+
+<item>
+  <fn>IC Hendersonville Nurse</fn>
+  <ln></ln>
+  <ct>+19901726452</ct>
+</item>
+
+<item>
+  <fn>IC Houston Appointment</fn>
+  <ln></ln>
+  <ct>+19901726731</ct>
+</item>
+
+<item>
+  <fn>IC Houston Nurse</fn>
+  <ln></ln>
+  <ct>+19901726732</ct>
+</item>
+
+<item>
+  <fn>IC Huntsville Appointment</fn>
+  <ln></ln>
+  <ct>+19901726031</ct>
+</item>
+
+<item>
+  <fn>IC Huntsville Nurse</fn>
+  <ln></ln>
+  <ct>+19901726032</ct>
+</item>
+
+<item>
+  <fn>IC Independence Appointment</fn>
+  <ln></ln>
+  <ct>+19901726371</ct>
+</item>
+
+<item>
+  <fn>IC Independence Nurse</fn>
+  <ln></ln>
+  <ct>+19901726372</ct>
+</item>
+
+<item>
+  <fn>IC Kansas City Appointment</fn>
+  <ln></ln>
+  <ct>+19901726391</ct>
+</item>
+
+<item>
+  <fn>IC Kansas City Nurse</fn>
+  <ln></ln>
+  <ct>+19901726392</ct>
+</item>
+
+<item>
+  <fn>IC Katy Appointment</fn>
+  <ln></ln>
+  <ct>+19901726751</ct>
+</item>
+
+<item>
+  <fn>IC Katy Nurse</fn>
+  <ln></ln>
+  <ct>+19901726752</ct>
+</item>
+
+<item>
+  <fn>IC Knoxville Appointment</fn>
+  <ln></ln>
+  <ct>+19901726471</ct>
+</item>
+
+<item>
+  <fn>IC Knoxville Nurse</fn>
+  <ln></ln>
+  <ct>+19901726472</ct>
+</item>
+
+<item>
+  <fn>IC Kyle Appointment</fn>
+  <ln></ln>
+  <ct>+19901726771</ct>
+</item>
+
+<item>
+  <fn>IC Kyle Nurse</fn>
+  <ln></ln>
+  <ct>+19901726772</ct>
+</item>
+
+<item>
+  <fn>IC Lubbock Appointment</fn>
+  <ln></ln>
+  <ct>+19901726791</ct>
+</item>
+
+<item>
+  <fn>IC Lubbock Nurse</fn>
+  <ln></ln>
+  <ct>+19901726792</ct>
+</item>
+
+<item>
+  <fn>IC Montgomery Appointment</fn>
+  <ln></ln>
+  <ct>+19901726051</ct>
+</item>
+
+<item>
+  <fn>IC Montgomery Nurse</fn>
+  <ln></ln>
+  <ct>+19901726052</ct>
+</item>
+
+<item>
+  <fn>IC Murfreesboro Appointment</fn>
+  <ln></ln>
+  <ct>+19901726491</ct>
+</item>
+
+<item>
+  <fn>IC Murfreesboro Nurse</fn>
+  <ln></ln>
+  <ct>+19901726492</ct>
+</item>
+
+<item>
+  <fn>IC Naples Appointment</fn>
+  <ln></ln>
+  <ct>+19901726171</ct>
+</item>
+
+<item>
+  <fn>IC Naples Nurse</fn>
+  <ln></ln>
+  <ct>+19901726172</ct>
+</item>
+
+<item>
+  <fn>IC Nashville Appointment</fn>
+  <ln></ln>
+  <ct>+19901726511</ct>
+</item>
+
+<item>
+  <fn>IC Nashville Nurse</fn>
+  <ln></ln>
+  <ct>+19901726512</ct>
+</item>
+
+<item>
+  <fn>IC Noggle Way Appointment</fn>
+  <ln></ln>
+  <ct>+19901726291</ct>
+</item>
+
+<item>
+  <fn>IC Noggle Way Nurse</fn>
+  <ln></ln>
+  <ct>+19901726292</ct>
+</item>
+
+<item>
+  <fn>IC North Hills Appointment</fn>
+  <ln></ln>
+  <ct>+19901726811</ct>
+</item>
+
+<item>
+  <fn>IC North Hills Nurse</fn>
+  <ln></ln>
+  <ct>+19901726812</ct>
+</item>
+
+<item>
+  <fn>IC Norwood Appointment</fn>
+  <ln></ln>
+  <ct>+19901726431</ct>
+</item>
+
+<item>
+  <fn>IC Norwood Nurse</fn>
+  <ln></ln>
+  <ct>+19901726432</ct>
+</item>
+
+<item>
+  <fn>IC Plano Appointment</fn>
+  <ln></ln>
+  <ct>+19901726831</ct>
+</item>
+
+<item>
+  <fn>IC Plano Nurse</fn>
+  <ln></ln>
+  <ct>+19901726832</ct>
+</item>
+
+<item>
+  <fn>IC Round Rock Appointment</fn>
+  <ln></ln>
+  <ct>+19901726851</ct>
+</item>
+
+<item>
+  <fn>IC Round Rock Nurse</fn>
+  <ln></ln>
+  <ct>+19901726852</ct>
+</item>
+
+<item>
+  <fn>IC San Antonio Appointment</fn>
+  <ln></ln>
+  <ct>+19901726871</ct>
+</item>
+
+<item>
+  <fn>IC San Antonio Nurse</fn>
+  <ln></ln>
+  <ct>+19901726872</ct>
+</item>
+
+<item>
+  <fn>IC Sarasota Appointment</fn>
+  <ln></ln>
+  <ct>+19901726191</ct>
+</item>
+
+<item>
+  <fn>IC Sarasota Nurse</fn>
+  <ln></ln>
+  <ct>+19901726192</ct>
+</item>
+
+<item>
+  <fn>IC Smyrna Appointment</fn>
+  <ln></ln>
+  <ct>+19901726271</ct>
+</item>
+
+<item>
+  <fn>IC Smyrna Nurse</fn>
+  <ln></ln>
+  <ct>+19901726272</ct>
+</item>
+
+<item>
+  <fn>IC Stone Oak Appointment</fn>
+  <ln></ln>
+  <ct>+19901726891</ct>
+</item>
+
+<item>
+  <fn>IC Stone Oak Nurse</fn>
+  <ln></ln>
+  <ct>+19901726892</ct>
+</item>
+
+<item>
+  <fn>IC Sugar Land Appointment</fn>
+  <ln></ln>
+  <ct>+19901726911</ct>
+</item>
+
+<item>
+  <fn>IC Sugar Land Nurse</fn>
+  <ln></ln>
+  <ct>+19901726912</ct>
+</item>
+
+<item>
+  <fn>IC Waco Appointment</fn>
+  <ln></ln>
+  <ct>+19901726931</ct>
+</item>
+
+<item>
+  <fn>IC Waco Nurse</fn>
+  <ln></ln>
+  <ct>+19901726932</ct>
+</item>
+
+<item>
+  <fn>IC Woodlands Appointment</fn>
+  <ln></ln>
+  <ct>+19901726951</ct>
+</item>
+
+<item>
+  <fn>IC Woodlands Nurse</fn>
+  <ln></ln>
+  <ct>+19901726952</ct>
+</item>
+
+<item>
+  <fn>PA Region 1 Pod 10</fn>
+  <ln></ln>
+  <ct>+19901720050</ct>
+</item>
+
+<item>
+  <fn>PA Region 1 Pod 11</fn>
+  <ln></ln>
+  <ct>+19901720051</ct>
+</item>
+
+<item>
+  <fn>PA Region 1 Pod 12</fn>
+  <ln></ln>
+  <ct>+19901720052</ct>
+</item>
+
+<item>
+  <fn>PA Region 1 Pod 7</fn>
+  <ln></ln>
+  <ct>+19901720047</ct>
+</item>
+
+<item>
+  <fn>PA Region 1 Pod 8</fn>
+  <ln></ln>
+  <ct>+19901720048</ct>
+</item>
+
+<item>
+  <fn>PA Region 1 Pod 9</fn>
+  <ln></ln>
+  <ct>+19901720049</ct>
+</item>
+
+<item>
+  <fn>PA Region 2 Pod 1</fn>
+  <ln></ln>
+  <ct>+19901720041</ct>
+</item>
+
+<item>
+  <fn>PA Region 2 Pod 2</fn>
+  <ln></ln>
+  <ct>+19901720042</ct>
+</item>
+
+<item>
+  <fn>PA Region 2 Pod 3</fn>
+  <ln></ln>
+  <ct>+19901720043</ct>
+</item>
+
+<item>
+  <fn>PA Region 2 Pod 4</fn>
+  <ln></ln>
+  <ct>+19901720044</ct>
+</item>
+
+<item>
+  <fn>PA Region 2 Pod 5</fn>
+  <ln></ln>
+  <ct>+19901720045</ct>
+</item>
+
+<item>
+  <fn>PA Region 2 Pod 6</fn>
+  <ln></ln>
+  <ct>+19901720046</ct>
+</item>
+```
+
+</item_list> </directory>
