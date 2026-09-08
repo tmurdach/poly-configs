@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PHONE_CONFIG>
+  <DEVICE_SETTINGS
+    device.set="1"
+    
+    reg.1.lineKeys="3"
+    
+    device.eulaAccepted.set="1"
+    device.eulaAccepted="1"
+ 
+    device.passwordConfigured.set="1"
+    device.passwordConfigured="1"
+ 
+    device.showOOB.set="1"
+    device.showOOB="0"
+ 
+    device.prov.serverType.set="1"
+    device.prov.serverType="HTTPS"
+ 
+    device.net.preferredNetwork.set="1"
+    device.net.preferredNetwork="V4"
+ 
+    device.dhcp.bootSrvUseOpt.set="1"
+    device.dhcp.bootSrvUseOpt="Static"
+ 
+    device.prov.serverName.set="1"
+    device.prov.serverName="https://phone-home.usw2.pure.cloud"
+ 
+    device.prov.user.set="1"
+    device.prov.user=""
+ 
+    device.prov.tagSerialNo.set="1"
+    device.prov.tagSerialNo="1"
+ 
+    device.sec.TLS.prov.strictCertCommonNameValidation.set="1"
+    device.sec.TLS.prov.strictCertCommonNameValidation="0"
+ 
+    device.syslog.serverName.set="1"
+    device.syslog.serverName=":514"
+ 
+    device.syslog.transport.set="1"
+    device.syslog.transport="None"
+ 
+    device.syslog.renderLevel.set="1"
+    device.syslog.renderLevel="6"
+ 
+    device.syslog.prependMac.set="1"
+    device.syslog.prependMac="1"
+ 
+    device.sntp.gmtOffset.set="1"
+    device.sntp.gmtOffset="-21600"
+ 
+    device.sntp.gmtOffsetcityID.set="1"
+    device.sntp.gmtOffsetcityID="10"
+
+    up.screenCapture.allowed="1"
+    up.screenCapture.enabled="1"
+  />
+ 
+  <WEB
+    apps.restapi.enabled="1"
+    log.level.change.httpa="0"
+    log.level.change.net="0"
+    log.level.change.pcap="0"
+    log.level.change.pkt="0"
+    log.level.change.sip="0"
+    log.level.change.sipp="0"
+    log.level.change.sipt="0"
+    log.level.change.srtp="0"
+    log.level.change.sshc="0"
+    log.level.change.lldp="0"
+    log.render.level="0"
+  />
+</PHONE_CONFIG>
