@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<directory>
+  <item_list>
+
+<item>
+  <fn>Patient Access Hotline</fn>
+  <ln></ln>
+  <ct>8773655566</ct>
+  <sd>1</sd>
+</item>
+
+<item>
+  <fn>.Billing</fn>
+  <ln></ln>
+  <ct>+19901720005</ct>
+</item>
+
+<item>
+  <fn>.Hemophilia</fn>
+  <ln></ln>
+  <ct>+19901720010</ct>
+</item>
+
+<item>
+  <fn>.Pharmacy Non-Hemo</fn>
+  <ln></ln>
+  <ct>+19901720004</ct>
+</item>
+
+    <item>
+      <fn>Tom</fn>
+      <ct>1728995</ct>  <!-- The SIP Extension inside Genesys -->
+      <sd>2</sd>    <!-- Assign to Physical Line Key Index 2 -->
+      <bw>1</bw>    <!-- 1 = Enable Buddy Watch Tracking -->
+    </item>
+    
+
+
+</item_list> </directory>
